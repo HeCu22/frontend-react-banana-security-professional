@@ -80,6 +80,15 @@ nav a:active {
   color: white;
 }
 
+.user {
+  display:flex;
+  justify-content: space-around;
+
+}
+.span {
+  padding-right: 8px;
+}
+
 .logo-container {
   display: flex;
   align-items: center;
